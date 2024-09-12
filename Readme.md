@@ -17,10 +17,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<video width="640" height="360" controls>
-  <source src="images/Luminaria_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/240834fa-651d-4f4b-a8a1-fc21d9c1a7ba
 
 Having used game engines in the past extensively, I always wondered how they worked under the hood.
 
