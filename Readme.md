@@ -88,7 +88,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Anurag Thakur - anurag.rajeev.thakur@gmail.com  |  at3424@ic.ac.uk
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [LINK](https://github.com/anuragrajeevthakur/Luminaria_Engine)
 
 
 
