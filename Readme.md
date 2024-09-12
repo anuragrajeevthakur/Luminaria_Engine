@@ -23,13 +23,16 @@ Having used game engines in the past extensively, I always wondered how they wor
 As a student looking to get into the world of graphics programming, I wanted to create this engine to find the answer to this question, test myself, and see if I could achieve high-fidelity graphics. As of writing this, I am about to begin my master's degree in Electrical and Electronics Engineering at Imperial College London, and this project serves as a precursor to some of the research I may want to pursue at university.
 
 Thus, this project serves a threefold purpose:
+
+<div align="justify">
+
 * Displaying my ability in programming in C++ and OpenGL.
 * Giving me a better understanding of graphics rendering at the lowest level.
 * Creating pretty 3D scenes for future projects of mine.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<div align="justify">
+
 
 ### Built On:
 
