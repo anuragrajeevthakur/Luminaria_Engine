@@ -13,7 +13,6 @@
 
 <br>
 
-<div align="justify">
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -30,6 +29,7 @@ Thus, this project serves a threefold purpose:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<div align="justify">
 
 ### Built On:
 
