@@ -13,7 +13,7 @@
 
 <br>
 
-
+<div align="justify">
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -97,7 +97,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 * [Learn OpenGL](https://learnopengl.com/)
 * [The Cherno YouTube Channel](https://www.youtube.com/@TheCherno)
 
-
+</div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
