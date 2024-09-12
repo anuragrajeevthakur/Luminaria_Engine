@@ -1,0 +1,5 @@
+# Exclude images folder
+images/*
+
+# Files
+imgui.ini
