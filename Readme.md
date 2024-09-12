@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="github link here">
-    <img src="images/Luminaria_Logo.png" alt="Logo" width="80" height="80">
+    <img src="images/Luminaria_logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Luminaria: Physically Based Lighting Engine</h3>
