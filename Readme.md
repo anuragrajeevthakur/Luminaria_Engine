@@ -44,6 +44,8 @@ Thus, this project serves a threefold purpose:
 
 This project was developed in Visual Studio, and has been packaged with CMake as to be built anywhere.
 
+Dependancies have been included in this repo.
+
 To build the project using CMake via CLI, follow these steps on any UNIX-based OS:
 
 ### Generating Visual Studio Project
